@@ -4,11 +4,8 @@ Prosta aplikacja do tworzenia i nauki z fiszek (kartek z pytaniami i odpowiedzia
 
 ## Funkcje 📱
 - Twórz własne zestawy fiszek z tekstem i obrazkami
-- Tryb nauki z losowymi pytaniami
-- Podział na kategorie (np. języki, nauka, hobby)
+- Tryb nauki
 - Prosty i intuicyjny interfejs
-- Tryb ciemny
-- Podstawowa statystyka postępów
 
 ## Instalacja 💾
 1. Sklonuj repozytorium:
